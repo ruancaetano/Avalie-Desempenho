@@ -33,8 +33,8 @@ Crie um aplicativo da Web que permita que os funcionários enviem feedback para 
 
 ### Tecnologias utilizadas
 
-- **_Front-end_**: ReactJS
-- **\*Back-end\*\***: NodeJS
+- Front-end: ReactJS
+- Back-end: NodeJS
 
 Mais detalhes sobre a configuração e execução de cada parte do projeto são dadas em: [front-end](./web/README.md) e [back-end](./server/README.md)
 
